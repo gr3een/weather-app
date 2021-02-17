@@ -1,3 +1,9 @@
+#About
+
+This is a simple web app used to get information of weather and temperature of 20,000+ cities around world.
+It uses an open web api for fetching data about entered cities.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
